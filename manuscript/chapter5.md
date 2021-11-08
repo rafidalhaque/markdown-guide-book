@@ -1,6 +1,13 @@
+---
+modified: 2021-11-08T20:29:35+06:00
+---
+
 # Cheat Sheet {#cheat-sheet}
 
 This cheat sheet provides a quick overview of all the Markdown syntax elements. It can't cover every edge case! If you need more information about any of these elements, refer back to the chapters on [basic](#basic-syntax) and [extended syntax](#extended-syntax).
+
+# চিট শিট {#cheat-sheet}
+কোনো বিষয়ের নোটের সারসংক্ষেপ চিট শিট নামে পরিচিত। মার্কডাউন 
 
 ## Basic Syntax
 
@@ -68,4 +75,3 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 | [Task List](#task-lists)  | `- [x] Write the press release`              |
 |                   | `- [ ] Update the website`                           |
 |                   | `- [ ] Contact the media`                            |
-
